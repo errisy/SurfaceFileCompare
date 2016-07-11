@@ -1,0 +1,16 @@
+c:\users\jack\documents\visual studio 2015\Projects\SurfaceFileCompare\SurfaceFileCompare\bin\Debug\SurfaceFileCompare.exe.config
+c:\users\jack\documents\visual studio 2015\Projects\SurfaceFileCompare\SurfaceFileCompare\obj\Debug\SurfaceFileCompare.vbprojResolveAssemblyReference.cache
+c:\users\jack\documents\visual studio 2015\Projects\SurfaceFileCompare\SurfaceFileCompare\obj\Debug\MainWindow.g.vb
+c:\users\jack\documents\visual studio 2015\Projects\SurfaceFileCompare\SurfaceFileCompare\obj\Debug\Application.g.vb
+c:\users\jack\documents\visual studio 2015\Projects\SurfaceFileCompare\SurfaceFileCompare\obj\Debug\SurfaceFileCompare_MarkupCompile.cache
+c:\users\jack\documents\visual studio 2015\Projects\SurfaceFileCompare\SurfaceFileCompare\obj\Debug\SurfaceFileCompare_MarkupCompile.lref
+c:\users\jack\documents\visual studio 2015\Projects\SurfaceFileCompare\SurfaceFileCompare\obj\Debug\SurfaceFileCompare.xml
+c:\users\jack\documents\visual studio 2015\Projects\SurfaceFileCompare\SurfaceFileCompare\bin\Debug\SurfaceFileCompare.exe
+c:\users\jack\documents\visual studio 2015\Projects\SurfaceFileCompare\SurfaceFileCompare\bin\Debug\SurfaceFileCompare.pdb
+c:\users\jack\documents\visual studio 2015\Projects\SurfaceFileCompare\SurfaceFileCompare\bin\Debug\SurfaceFileCompare.xml
+c:\users\jack\documents\visual studio 2015\Projects\SurfaceFileCompare\SurfaceFileCompare\obj\Debug\MainWindow.baml
+c:\users\jack\documents\visual studio 2015\Projects\SurfaceFileCompare\SurfaceFileCompare\obj\Debug\SurfaceFileCompare.g.resources
+c:\users\jack\documents\visual studio 2015\Projects\SurfaceFileCompare\SurfaceFileCompare\obj\Debug\SurfaceFileCompare.Resources.resources
+c:\users\jack\documents\visual studio 2015\Projects\SurfaceFileCompare\SurfaceFileCompare\obj\Debug\SurfaceFileCompare.vbproj.GenerateResource.Cache
+c:\users\jack\documents\visual studio 2015\Projects\SurfaceFileCompare\SurfaceFileCompare\obj\Debug\SurfaceFileCompare.exe
+c:\users\jack\documents\visual studio 2015\Projects\SurfaceFileCompare\SurfaceFileCompare\obj\Debug\SurfaceFileCompare.pdb
